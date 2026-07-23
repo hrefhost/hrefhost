@@ -7,7 +7,7 @@
 以下为我们提供的部分热门交易所官网备用域名网址导航，欢迎大家体验。
 
 - **🔥 欧易OKX备用域名网址导航**：[https://href.host/okx](https://href.host/okx) （[欧易APP下载](https://href.host/okxapp)）
-- **🌶️ 币安Binance备用域名网址导航**：[https://href.host/ba](https://href.host/ba) （[币安APP下载](https://href.host/baapp)）
+- **🌶️ 币安Binance备用域名网址导航**：[https://href.host/bn](https://href.host/bn) （[币安APP下载](https://href.host/bnapp)）
 - **⚡ 火币HTX备用域名网址导航**：[https://href.host/htx](https://href.host/htx) （[火币APP下载](https://href.host/htxapp)）
 - **👋 大门Gate备用域名网址导航**：[https://href.host/gate](https://href.host/gate) （[Gate APP下载](https://href.host/gateapp)）
 - **🌱 Bitget备用域名网址导航**：[https://href.host/bitget](https://href.host/bitget) （[Bitget APP下载](https://href.host/bitgetapp)）
