@@ -12,6 +12,8 @@
 - **👋 大门Gate备用域名网址导航**：[https://href.host/gate](https://href.host/gate) （[Gate APP下载](https://href.host/gateapp)）
 - **🌱 Bitget备用域名网址导航**：[https://href.host/bitget](https://href.host/bitget) （[Bitget APP下载](https://href.host/bitgetapp)）
 - **🤔 Bybit备用域名网址导航**：[https://href.host/bybit](https://href.host/bybit)
+- **🎒 背包Backpack网址导航**：[https://href.host/backpack](https://href.host/backpack)
+- **🦑 海妖Kraken网址导航**：[https://href.host/kraken](https://href.host/kraken)
 
 超链导航真正的做到了从源头把控所有备用域名和跳转链接的安全性，再通过用户访问时进行智能网络环境测试，自动判断并跳转到当前用户网络最佳访问域名链接，从而彻底实现超链导航的智能导航系统，让更多币圈用户都能够无国界和无网络限制的平等访问Web3世界。
 
